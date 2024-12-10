@@ -1,0 +1,11 @@
+.container{
+
+    width: 100%;
+    height: 650px;
+    background-image: url('../../assets/Images/Group 1131.png');
+    background-size: 115% 120%;
+    background-position: 50% 0%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+
+}
